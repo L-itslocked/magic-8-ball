@@ -90,7 +90,7 @@ https://www.w3schools.com/html/html_favicon.asp
 
 ## Inspired by
 
-[Shake animation](https://codepen.io/JoeHastings/pen/bNOppj)
+[Shake Animation](https://codepen.io/JoeHastings/pen/bNOppj)
 
 <!-- https://codepen.io/rajarju/pen/OxNzYx
 (TRY THIS EFFECT WITH JAVASCRIPT) -->
