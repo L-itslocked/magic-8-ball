@@ -1,10 +1,11 @@
 body {
-  background: rgb(241, 245, 252);
+  background: whitesmoke;
+  /* background: rgb(241, 245, 252);
   background: radial-gradient(
     circle,
     rgba(175, 174, 177, 0.471) 0%,
     rgba(33, 30, 49, 0.865)90%
-  );
+  ); */
 }
 
 p {
@@ -40,6 +41,7 @@ p {
     rgba(13, 26, 43, 0.8374164810690423) 22%,
     rgba(17, 31, 54, 1) 84%
   );
+  box-shadow: 10px 12px 25px 2px #2a2c2a;
 }
 .inner-ring {
   height: 30vh;
