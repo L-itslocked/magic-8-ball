@@ -46,6 +46,7 @@ Desktop-view
 https://css-tricks.com/snippets/css/css-triangle/
 https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function
 https://css-tricks.com/advanced-css-animation-using-cubic-bezier/
+https://daily-dev-tips.com/posts/creating-a-3d-pyramid-shape-in-css/
 
 <!--
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
