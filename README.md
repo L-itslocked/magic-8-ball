@@ -43,8 +43,6 @@ Desktop-view
 
 ### What I learned
 
-Learned new concepts:
-
 https://css-tricks.com/snippets/css/css-triangle/
 https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function
 https://css-tricks.com/advanced-css-animation-using-cubic-bezier/
@@ -92,7 +90,7 @@ https://www.w3schools.com/html/html_favicon.asp
 
 ## Inspired by
 
-Inspired by: https://codepen.io/JoeHastings/pen/bNOppj
+[Shake animation](https://codepen.io/JoeHastings/pen/bNOppj)
 
 <!-- https://codepen.io/rajarju/pen/OxNzYx
 (TRY THIS EFFECT WITH JAVASCRIPT) -->
