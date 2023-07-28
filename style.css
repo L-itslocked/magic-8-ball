@@ -53,7 +53,7 @@ p {
     rgba(26, 22, 237, 0.866369710467706) 50%,
     rgba(65, 43, 153, 0.9643652561247216) 99.6%
   );
-  border: solid 2px #000 inherit;
+  border: 6px #000 double;
 }
 .triangle {
   width: 0;
