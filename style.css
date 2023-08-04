@@ -51,8 +51,8 @@ p,
   box-shadow: 10px 12px 25px 2px #2a2c2a;
 }
 .inner-ring {
-  height: 12vh;
-  width: 12vh;
+  height: 13vh;
+  width: 13vh;
   border-radius: 50%;
   background: rgb(26, 22, 237);
   background: radial-gradient(
@@ -175,5 +175,11 @@ p,
     border-left: 85px solid transparent;
     border-right: 85px solid transparent;
     border-bottom: 125px solid rgb(229, 229, 224);
+  }
+}
+@media (max-width: 400px) {
+  .inner-ring {
+    height: 15vh;
+    width: 15vh;
   }
 }
