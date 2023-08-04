@@ -1,5 +1,6 @@
+const ball = document.querySelector(".magic-ball");
+
 function shakeMagicEightBall() {
-  const ball = document.querySelector(".magic-ball");
   let magicEight = Math.ceil(Math.random() * 20);
 
   switch (magicEight) {
@@ -68,3 +69,13 @@ function shakeMagicEightBall() {
       break;
   }
 }
+
+function shake() {
+  const shakingBall = document.querySelector(".shake");
+  const shakingBall2 = document.querySelector(".shake");
+  shakingBall.innerHTML.style.animation - duration;
+  shakingBall2.innerHTML.style.KeyframeEffect = "shake-ball";
+  // Add feature to shake ball onclick - and delayed response on revealed message
+}
+
+ball.addEventListener("click", shake);
