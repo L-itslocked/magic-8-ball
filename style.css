@@ -171,15 +171,30 @@ p,
     width: 30vh;
   }
   .triangle {
-    margin: 50px auto;
+    margin: 30px auto;
     border-left: 85px solid transparent;
     border-right: 85px solid transparent;
     border-bottom: 125px solid rgb(229, 229, 224);
+  }
+}
+@media (min-width: 401px + max-width: 749px) {
+  .inner-ring {
+    height: 25vh;
+    width: 25vh;
   }
 }
 @media (max-width: 400px) {
   .inner-ring {
     height: 15vh;
     width: 15vh;
+  }
+}
+@media (min-width: 390px + max-width: 400px) {
+  .inner-ring {
+    height: 14vh;
+    width: 14vh;
+  }
+  .triangle {
+    margin: 15px auto;
   }
 }
